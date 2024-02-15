@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace KuShop.Models;
 
+//test
 public partial class Cart
 {
     public string CartId { get; set; } = null!;
